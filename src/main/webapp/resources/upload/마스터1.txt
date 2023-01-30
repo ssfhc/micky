@@ -1,0 +1,19 @@
+원격추가
+원격이름 origin
+url 경로 repositories 주소
+
+파일상태
+
+
+push
+
+master check push
+
+
+
+
+
+
+
+
+
